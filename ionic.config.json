@@ -1,0 +1,8 @@
+{
+  "name": "AllRestaurant",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "ddee63f1"
+}
